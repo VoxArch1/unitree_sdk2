@@ -1,5 +1,5 @@
 # unitree_sdk2
-Unitree robot sdk version 2.
+Unitree robot sdk version 2. X
 
 ### Prebuild environment
 * OS  (Ubuntu 20.04 LTS)  
